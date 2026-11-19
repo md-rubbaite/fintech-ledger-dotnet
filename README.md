@@ -67,4 +67,4 @@ Also plan for:
 - [ ] Regulatory controls (e.g. Bangladesh Bank MFS guidelines, PCI DSS where card data is involved).
 
 ---
-Author: [Rubbaite T. Hassain](https://www.linkedin.com/in/rubbaite) · Software Architect, Founder of [Datazo InfoTech](https://www.datazoinfotech.com.bd) · MIT License
+Author: [Rubbaite T. Hassain](https://tanvir.info.bd) ([LinkedIn](https://www.linkedin.com/in/rubbaite)) · Software Architect, Founder of [Datazo InfoTech](https://www.datazoinfotech.com.bd) · MIT License
