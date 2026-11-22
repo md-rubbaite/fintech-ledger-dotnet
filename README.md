@@ -2,11 +2,11 @@
 
 **A double-entry ledger for wallets and payments that you can audit, reconcile and trust under concurrency.**
 
-This .NET 8 reference shows the core rules every fintech ledger needs. It's the kind of engine behind
+This .NET 10 reference shows the core rules every fintech ledger needs. It's the kind of engine behind
 wallet top-ups, P2P transfers, fees, settlement and refunds.
 
 [![ci](../../actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
-![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4)
+![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 ## Invariants
